@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/course_site/static/css/main.a19bc2f1.css",
+    "main.js": "/course_site/static/js/main.ef22a0e3.js",
+    "static/js/787.7066579b.chunk.js": "/course_site/static/js/787.7066579b.chunk.js",
+    "static/media/corporate-team-working-remotely-online-600nw-1922213237.webp": "/course_site/static/media/corporate-team-working-remotely-online-600nw-1922213237.f704de5fb700692f10e6.webp",
+    "static/media/header_-7.webp": "/course_site/static/media/header_-7.794dcf9ee50e279cd0d0.webp",
+    "index.html": "/course_site/index.html",
+    "main.a19bc2f1.css.map": "/course_site/static/css/main.a19bc2f1.css.map",
+    "main.ef22a0e3.js.map": "/course_site/static/js/main.ef22a0e3.js.map",
+    "787.7066579b.chunk.js.map": "/course_site/static/js/787.7066579b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a19bc2f1.css",
+    "static/js/main.ef22a0e3.js"
+  ]
+}
