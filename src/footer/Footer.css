@@ -1,0 +1,42 @@
+.footer{
+    background-color: #eeeaff;
+   
+    margin-top: auto;
+    padding: 50px;
+   
+    
+}
+.box{
+    margin-left: 100px;
+}
+.footer-box{
+    display: flex;
+  align-items: center;
+  gap: 100px;
+  justify-content:center;
+   
+    
+    
+    
+}
+
+.lists ul{
+    list-style: none;
+}
+.lists li{
+    margin-top: 10px;
+}
+.lists h3{
+    margin-left: 27px;
+}
+
+.lists a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color:var(--heading--color);
+}
+
+.lists a:hover{
+    color:rgb(52, 52, 206);
+}
